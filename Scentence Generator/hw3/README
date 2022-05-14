@@ -1,0 +1,5 @@
+README RNN assignment 03
+Trigram perplexity = 140 
+CNN perplexity = 72
+In this assignment. I have created a trigram model and a RNN Model which can generate a sentence with perplexity 140 for trigram and 90 for RNN.
+
